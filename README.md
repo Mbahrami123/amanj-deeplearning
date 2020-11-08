@@ -1,1 +1,1 @@
-# amanj
+# Deep Learning Course
