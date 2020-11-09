@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Deep Learning Course
 
 You can use the [editor on GitHub](https://github.com/kiavashazimi/amanj-deeplearning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
