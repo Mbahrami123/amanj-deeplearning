@@ -1,7 +1,7 @@
 # Deep Learning Course
 
 
-[amanjacademylink](https://lms.amanjacademy.com/alogin)
+[amanjacademy link](https://lms.amanjacademy.com/alogin)
 1. **مقدمات دوره**
   * پیشنیازها
   * جلسه اول
